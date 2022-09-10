@@ -4,6 +4,10 @@
 * Made using basic HTML, CSS, JS 
 * Currently It has no auth or cloud storage only local storage is there
 
+# The Image of the wesite is here:
+
+![image](https://user-images.githubusercontent.com/96655163/189480666-bd2031e0-bf0c-4060-89d1-53f16b8c0e53.png)
+
 # You can check my other Todo Projects:
 
 * These were made with auth, cloud storage and much more.
