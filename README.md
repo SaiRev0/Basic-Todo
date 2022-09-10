@@ -8,5 +8,6 @@
 
 * These were made with auth, cloud storage and much more.
 * These projects I made under the event CSOC organised by COPS IIT BHU
-* [Basic Todo](https://todo-saiyam.vercel.app/) Made with HTML, CSS, Js and APIs for auth and MongoDB as DataBase
-* [Todo made with Vue](https://todo-vue-liart.vercel.app/) Made with VUE, CSS and APIs for auth and MongoDB as DataBase
+
+* [Basic Todo](https://todo-saiyam.vercel.app/) Made with HTML, CSS, Js and APIs for auth and MongoDB as DataBase [GitHub Repo](https://github.com/SaiRev0/csoc-task-2-web)
+* [Todo made with Vue](https://todo-vue-liart.vercel.app/) Made with VUE, CSS and APIs for auth and MongoDB as DataBase [GitHub Repo](https://github.com/SaiRev0/CSOC-week3-VUE)
